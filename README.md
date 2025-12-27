@@ -1,3 +1,4 @@
+DEMO : https://www.linkedin.com/posts/jonathan-githumbi_odoo-erp-opensource-activity-7123223993561534465-mAe4?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD8JlhIBYotbLZ7sB1wtxShMVAsIYtmRpj4
 Time-Off & Leave Management System
 
 A web-based time-off management application that automates employee leave requests, approvals, and tracking — reducing manual HR effort and improving organizational visibility.
